@@ -1,0 +1,4 @@
+shapiro-wilk,anderson,levene
+"ShapiroResult(statistic=0.8625917928593686, pvalue=2.008791680572054e-42)","AndersonResult(statistic=130.88709313951858, critical_values=array([0.575, 0.655, 0.786, 0.917, 1.09 ]), significance_level=array([15. , 10. ,  5. ,  2.5,  1. ]), fit_result=  params: FitParams(loc=127.668772160557, scale=93.69810518844419)
+ success: True
+ message: '`anderson` successfully fit the distribution to the data.')","LeveneResult(statistic=2041.1199207885047, pvalue=0.0)"
